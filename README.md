@@ -5,4 +5,6 @@ Lorem Ipsum is simply dummy text of the printing and
  typesetting industry. Lorem Ipsum has been the industry's 
  standard dummy text ever since the 1500s, when 
 
-## Remooving some text
+## About the project
+
+This is just a demo git project
