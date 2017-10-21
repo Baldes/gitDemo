@@ -7,4 +7,4 @@ Lorem Ipsum is simply dummy text of the printing and
 
 ## About the project
 
-This is just a demo git project
+This is just a git demo project for trainning
